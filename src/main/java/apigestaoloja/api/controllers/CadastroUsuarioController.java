@@ -22,7 +22,6 @@ import apigestaoloja.api.services.UsuarioService;
 @CrossOrigin(origins = "*")
 public class CadastroUsuarioController {
 
-
 	@Autowired	
 	private UsuarioService usuarioService;
 	
